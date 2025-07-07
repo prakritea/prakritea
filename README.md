@@ -1,13 +1,39 @@
 <h1 align="center">Hi there, I'm Prakriti 👋</h1>
 
 <p align="center">
-🌱 Aspiring AI/ML Engineer | Passionate about sustainable tech, problem-solving, and creative solutions. <br>
-🚀 Projects: Pose Transfer, Neural Style Transfer, Sign Recognition, Eco Apps & more!
+🌱 Final Year B.Tech (AI & ML) | Passionate about building ethical & impactful tech solutions. <br>
+🤖 Exploring the intersection of Machine Learning, Computer Vision, and Sustainability. <br>
+🌿 Eco-conscious innovator | 👩‍💻 Lifelong learner
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔁 [Pose Transfer GAN](https://github.com/prakritea/pose-transfer) | Progressive Attention GAN for person re-identification and pose-to-pose transformation |
+| 🎨 [Neural Style Transfer](https://github.com/prakritea/style-transfer) | Transform any image using famous painting styles using deep learning |
+| ✋ [Indian Sign Recognition](https://github.com/prakritea/sign-recognition) | Real-time sign language classification using CNN and OpenCV |
+| 🌱 [Eco App (Carbon Grove)](https://github.com/prakritea/eco-app) | Gamified sustainability app with Unity + Flutter + ML backend |
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prakritea&show_icons=true&theme=tokyonight" />
