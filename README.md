@@ -23,21 +23,12 @@
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🔁 [Pose Transfer GAN](https://github.com/prakritea/pose-transfer) | Progressive Attention GAN for person re-identification and pose-to-pose transformation |
-| 🎨 [Neural Style Transfer](https://github.com/prakritea/style-transfer) | Transform any image using famous painting styles using deep learning |
-| ✋ [Indian Sign Recognition](https://github.com/prakritea/sign-recognition) | Real-time sign language classification using CNN and OpenCV |
-| 🌱 [Eco App (Carbon Grove)](https://github.com/prakritea/eco-app) | Gamified sustainability app with Unity + Flutter + ML backend |
-
----
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakritea&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakritea&show_icons=Flase&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritea&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakritea&layout=compact&theme=tokyonight&hide=c" />
 </p>
@@ -63,7 +54,7 @@
 
 ### ✨ Optional (Add Typing Animation Header)
 
-```md
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%7C+Pose+Transfer+%7C+Sustainable+Tech+Builder;Love+Python+%7C+DL+%7C+OpenCV+%7C+Flask&center=true&width=500&height=45">
 </p>
