@@ -52,9 +52,6 @@
 
 ---
 
-### ✨ Optional (Add Typing Animation Header)
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%7C+Pose+Transfer+%7C+Sustainable+Tech+Builder;Love+Python+%7C+DL+%7C+OpenCV+%7C+Flask&center=true&width=500&height=45">
 </p>
