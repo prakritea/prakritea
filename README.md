@@ -6,13 +6,12 @@
 
 ---
 
-### 🌱 About Me
+### 🌿 About Me
 
 <p align="center">
   🎓 Final Year B.Tech (AI & ML) <br>
-  🤖 Passionate about AI for Good — especially ML + CV + Sustainability <br>
-  🌿 Building solutions that make a difference, ethically <br>
-  💡 Always curious | 🧠 Forever learning | 🛠️ Builder by heart
+  🤖 Passionate about AI for Good — ML, CV, and Sustainability <br>
+  🌱 Eco-conscious builder | 👩‍💻 Lifelong learner | 🌍 Ethical tech enthusiast
 </p>
 
 ---
@@ -28,12 +27,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakritea&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritea&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakritea&show_icons=true&theme=blueberry&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritea&theme=blueberry&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakritea&layout=compact&theme=tokyonight&hide=c&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakritea&layout=compact&theme=blueberry&hide=c&hide_border=true" width="40%" />
 </p>
 
 ---
@@ -41,12 +40,22 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prakritea&theme=algolia&margin-w=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prakritea&theme=gruvbox_light&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🧩 Contribution Graph (3D)
+
+<p align="center">
+  <img src="https://github.com/prakritea/prakritea/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+> 🐍 This animated contribution snake dynamically slithers through your commits — updated every day.
+
+---
+
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:prakritisrishti03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -56,11 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&pause=1000&color=7FA9C6&center=true&vCenter=true&repeat=true&width=400&lines=Thanks+for+visiting!+✨;Let’s+create+impactful+tech+together!+💻🌏" />
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150px" height="150px"/>
-</p>
-
-<p align="center"><b>Thanks for stopping by! Let's build something great together 💻🌏</b></p>
