@@ -5,23 +5,23 @@
 
 # 👋 Hey there, I’m Prakriti  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<table>
+  <tr>
+    <td>
 
-  <div style="flex: 1;">
+      ### 🌸 About Me  
+      - 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
+      - 💼 **Current Intern** @ Infosys Springboard <br>
+        <img src="./infosys logo.png" width="120"/>  
+      - 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
 
-  ### 🌸 About Me  
-  - 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
-  - 💼 **Current Intern** @ Infosys Springboard <br>
-    <img src="./infosys logo.png" width="120"/>  
-  - 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
+    </td>
+    <td>
+      <img src="./ghilbi icon.png" width="180" alt="Ghibli Icon"/>
+    </td>
+  </tr>
+</table>
 
-  </div>
-
-  <div style="flex: 0.4; text-align: right;">
-    <img src="./ghilbi icon.png" width="180" alt="Ghibli Icon" style="border-radius:50%;"/>
-  </div>
-
-</div>
 
 
 
