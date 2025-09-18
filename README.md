@@ -6,20 +6,20 @@
 # 👋 Hey there, I’m Prakriti  
 
 ### 🌸 About Me  
--  **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
--  **Current Intern** @ Infosys Springboard <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Infosys_logo.svg" width="120"/>  
--  Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
+- 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
+- 💼 **Current Intern** @ Infosys Springboard <br>
+  <img src="https://1000logos.net/wp-content/uploads/2021/05/Infosys-logo.png" width="100"/>  
+- 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
 
 ---
 
 ### 📊 My GitHub Stats  
-<img src="07171044-2b88-4a83-8bfe-da4f9d510e87.png" width="500"/>  
+![Prakriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakritea&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 💻 Most Used Languages  
-<img src="6b9c446c-0d58-429a-a4e6-e4c3d18fdb1e.png" width="400"/>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakritea&layout=compact&theme=tokyonight)
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ### 🎉 Fun Zone  
-[<div class="tenor-gif-embed" data-postid="768182518186422648" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/gojo-satoru-nah-id-win-gif-768182518186422648">  ](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ1bTdob2Zoamd5MmJycjc1OGk5dzhtdTFsd21rZWV2emF2NWcxbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k1xA4WSR0EqGRATxKI/giphy.gif)
+![Gojo Fun](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ1bTdob2Zoamd5MmJycjc1OGk5dzhtdTFsd21rZWV2emF2NWcxbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k1xA4WSR0EqGRATxKI/giphy.gif)  
 
 ![Fun GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ4d2JqdGg3ZXF0MGI2dm5vNTV1dXkweTU2ZmMxbHRla2tsNTVlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uDK2KwBp4OHfw9k2Wv/giphy.gif)  
 
@@ -37,9 +37,7 @@
 
 ### 🛠️ Tools & Technologies  
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,github,vscode,figma,mysql,docker,tensorflow,pytorch" height="40"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,matplotlib" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,github,git,vscode,figma,mysql,docker,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,seaborn,opencv,jupyter,fastapi" height="40"/>
 </p>  
 
 ---
@@ -50,9 +48,9 @@
 ---
 
 ### ⚡ Quick Facts  
--  Currently learning **MLOps**  
--  Looking to collaborate on **AI/ML projects**  
--  Ask me about **AI, ML, DL, UI/UX, and Python**  
--  I love exploring **tech + creativity**  
+- 🌱 Currently learning **MLOps**  
+- 🤝 Looking to collaborate on **AI/ML projects**  
+- 💬 Ask me about **AI, ML, DL, UI/UX, and Python**  
+- ❤️ I love exploring **tech + creativity**  
 
 ---
