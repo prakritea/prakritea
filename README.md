@@ -65,17 +65,6 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
-
----
-
-### 📊 My GitHub Stats  
-![Prakriti's GitHub stats](./github-stats.svg)  
-
----
-
-### 💻 Most Used Languages  
-![Top Langs](./top-langs.svg)  
-
 ---
 
 ### 🐍 Contribution Snake  
