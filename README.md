@@ -8,7 +8,7 @@
 ### 🌸 About Me  
 - 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
 - 💼 **Current Intern** @ Infosys Springboard <br>
-  <img src="https://download.logo.wine/logo/Infosys/Infosys-Logo.wine.png" width="150"/>  
+  <img src="./infosys_logo.png" width="120"/>  
 - 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
 
 ---
@@ -68,8 +68,19 @@
 
 ---
 
+### 📊 My GitHub Stats  
+![Prakriti's GitHub stats](./github-stats.svg)  
+
+---
+
+### 💻 Most Used Languages  
+![Top Langs](./top-langs.svg)  
+
+---
+
 ### 🐍 Contribution Snake  
 ![Snake animation](https://github.com/prakritea/prakritea/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
