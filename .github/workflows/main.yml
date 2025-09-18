@@ -1,13 +1,12 @@
-name: Profile Auto Update
+name: Generate GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allows manual trigger from Actions tab
+    - cron: "0 0 * * *" # runs every day at midnight
+  workflow_dispatch:     # allows you to run it manually from Actions tab
 
 jobs:
-  snake:
-    name: Generate GitHub Contribution Snake
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,34 +21,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake files
+      - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  stats:
-    name: Refresh GitHub Stats & Languages
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Update Stats Card
-        run: |
-          curl -o ./github-stats.svg "https://github-readme-stats.vercel.app/api?username=prakritea&show_icons=true&theme=material-palenight&bg_color=0d1117&title_color=cf9fff&text_color=ffffff&icon_color=58a6ff&cache_seconds=1800"
-          
-      - name: Update Languages Card
-        run: |
-          curl -o ./top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=prakritea&layout=compact&theme=material-palenight&bg_color=0d1117&title_color=cf9fff&text_color=ffffff&cache_seconds=1800"
-      
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-stats.svg top-langs.svg
-          git commit -m "chore: update GitHub stats & languages"
-          git push
