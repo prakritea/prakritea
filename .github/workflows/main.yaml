@@ -9,6 +9,8 @@ jobs:
   build:
     name: Generate Snake
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ✅ give write access to GITHUB_TOKEN
 
     steps:
       - name: Checkout repository
