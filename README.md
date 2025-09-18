@@ -3,13 +3,25 @@
 
 ---
 
-# 👋 Hey there, I’m Prakriti  
+# I’m Prakriti👋 Nice to meet you :) 
 
-### 🌸 About Me  
-- 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
-- 💼 **Current Intern** @ Infosys Springboard <br>
-  <img src="./infosys logo.png" width="120"/>  
-- 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
+<div align="left" style="display:flex; justify-content:space-between; align-items:center;">
+  
+  <div style="flex:1;">
+    
+  ### 🌸 About Me  
+  - 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
+  - 💼 **Current Intern** @ Infosys Springboard <br>
+    <img src="./infosys logo.png" width="120"/>  
+  - 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
+
+  </div>
+
+  <div style="flex:1; text-align:right;">
+    <img src="./ghilbi icon.png" width="200" alt="Ghibli Icon"/>
+  </div>
+
+</div>
 
 ---
 
@@ -53,7 +65,7 @@
 <div align="center">
 
   <img src="https://media.giphy.com/media/k1xA4WSR0EqGRATxKI/giphy.gif" width="250"/>  
-  <img src="https://media.tenor.com/images/2f4f0c3ed4c00bb6f0c8b90f6a507c2f/tenor.gif" width="250" alt="Please Hire Me"/>  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J0dnZxNnloYzI4eGc3NjdvbTE2eGd3MTVnOTloZ2lucThsaXVwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dH9RUIKgYu2jfrYJI/giphy.gif" width="250"/>  
   <img src="https://media.giphy.com/media/s3yvjYV2gf8T7zcUpQ/giphy.gif" width="250"/>  
 
 </div>
