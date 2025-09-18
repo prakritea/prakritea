@@ -8,7 +8,7 @@
 ### 🌸 About Me  
 - 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
 - 💼 **Current Intern** @ Infosys Springboard <br>
-  <img src="./infosys_logo.png" width="120"/>  
+  <img src="./infosys logo.png" width="120"/>  
 - 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
 
 ---
@@ -68,7 +68,9 @@
 ---
 
 ### 🐍 Contribution Snake  
-![Snake animation](https://github.com/prakritea/prakritea/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/prakritea/prakritea/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/prakritea/prakritea/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 ---
