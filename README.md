@@ -3,17 +3,17 @@
 
 ---
 
-# I’m Prakriti👋, nice to meet you all:)  
+# 👋 Hey there, I’m Prakriti  
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
   <div style="flex: 1;">
 
   ### 🌸 About Me  
-  -  **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
-  - **Current Intern** @ Infosys Springboard <br>
+  - 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
+  - 💼 **Current Intern** @ Infosys Springboard <br>
     <img src="./infosys logo.png" width="120"/>  
-  -  Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
+  - 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
 
   </div>
 
@@ -22,6 +22,7 @@
   </div>
 
 </div>
+
 
 
 ---
