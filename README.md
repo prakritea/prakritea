@@ -3,25 +3,26 @@
 
 ---
 
-# I’m Prakriti👋 Nice to meet you :) 
+# I’m Prakriti👋, nice to meet you all:)  
 
-<div align="left" style="display:flex; justify-content:space-between; align-items:center;">
-  
-  <div style="flex:1;">
-    
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div style="flex: 1;">
+
   ### 🌸 About Me  
-  - 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
-  - 💼 **Current Intern** @ Infosys Springboard <br>
+  -  **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
+  - **Current Intern** @ Infosys Springboard <br>
     <img src="./infosys logo.png" width="120"/>  
-  - 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
+  -  Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
 
   </div>
 
-  <div style="flex:1; text-align:right;">
-    <img src="./ghilbi icon.png" width="200" alt="Ghibli Icon"/>
+  <div style="flex: 0.4; text-align: right;">
+    <img src="./ghilbi icon.png" width="180" alt="Ghibli Icon" style="border-radius:50%;"/>
   </div>
 
 </div>
+
 
 ---
 
@@ -100,7 +101,7 @@
 ---
 
 ### ⚡ Quick Facts  
-- 🌱 Currently learning **MLOps**  
-- 🤝 Looking to collaborate on **AI/ML projects**  
-- 💬 Ask me about **AI, ML, DL, UI/UX, and Python**  
-- ❤️ I love exploring **tech + creativity**  
+-  Currently learning **MLOps**  
+-  Looking to collaborate on **AI/ML projects**  
+-  Ask me about **AI, ML, DL, UI/UX, and Python**  
+-  I love exploring **tech + creativity**  
