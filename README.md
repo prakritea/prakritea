@@ -1,15 +1,15 @@
 <!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone:)&descAlign=56&section=header&reversal=false&fontColor=0&fontSize=80&fontAlign=48&fontAlignY=50&animation=scaleIn&rotate=300)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone˙⋆✮)
 
 ---
 
-# 👋 Hi there, I’m Prakriti  
+# 👋 Hey there, I’m Prakriti  
 
 ### 🌸 About Me  
-- 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
-- 💼 **Current Intern** @ Infosys Springboard <br>
+-  **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
+-  **Current Intern** @ Infosys Springboard <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Infosys_logo.svg" width="120"/>  
-- 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
+-  Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ### 🎉 Fun Zone  
-<div class="tenor-gif-embed" data-postid="768182518186422648" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/gojo-satoru-nah-id-win-gif-768182518186422648">Gojo Satoru Nah Id Win Sticker</a> from <a href="https://tenor.com/search/gojo+satoru-stickers">Gojo Satoru Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
+[<div class="tenor-gif-embed" data-postid="768182518186422648" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/gojo-satoru-nah-id-win-gif-768182518186422648">  ](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ1bTdob2Zoamd5MmJycjc1OGk5dzhtdTFsd21rZWV2emF2NWcxbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/k1xA4WSR0EqGRATxKI/giphy.gif)
 
 ![Fun GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ4d2JqdGg3ZXF0MGI2dm5vNTV1dXkweTU2ZmMxbHRla2tsNTVlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uDK2KwBp4OHfw9k2Wv/giphy.gif)  
 
@@ -50,9 +50,9 @@
 ---
 
 ### ⚡ Quick Facts  
-- 🌱 Currently learning **MLOps**  
-- 🤝 Looking to collaborate on **AI/ML projects**  
-- 💬 Ask me about **AI, ML, DL, UI/UX, and Python**  
-- ❤️ I love exploring **tech + creativity**  
+-  Currently learning **MLOps**  
+-  Looking to collaborate on **AI/ML projects**  
+-  Ask me about **AI, ML, DL, UI/UX, and Python**  
+-  I love exploring **tech + creativity**  
 
 ---
