@@ -13,39 +13,56 @@
 
 ---
 
-### 📊 My GitHub Stats  
-![Prakriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakritea&show_icons=true&theme=material-palenight&bg_color=0d1117&title_color=cf9fff&text_color=ffffff&icon_color=58a6ff)
+### 📊 My GitHub Dashboard  
 
----
+<div align="center">
 
-### 💻 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakritea&layout=compact&theme=material-palenight&bg_color=0d1117&title_color=cf9fff&text_color=ffffff)
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=prakritea&show_icons=true&theme=material-palenight&bg_color=0d1117&title_color=cf9fff&text_color=ffffff&icon_color=58a6ff" height="200"/>  
 
----
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakritea&layout=compact&theme=material-palenight&bg_color=0d1117&title_color=cf9fff&text_color=ffffff" height="200"/>  
 
-### 🌐 Connect With Me  
-<div align="center" style="background:#1a1b27; padding:20px; border-radius:15px; margin-bottom: 15px;">
-
-[![Email](https://img.shields.io/badge/Email-prakriti1178@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakriti1178@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/prakriti-81b6822b9/)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/prakritiiii_11/)
+  <!-- Snake -->
+  <img src="https://raw.githubusercontent.com/prakritea/prakritea/output/github-contribution-grid-snake.svg" height="200"/>
 
 </div>  
 
 ---
 
-### 🎉 Fun Zone  
+### 🌐 Connect With Me  
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/k1xA4WSR0EqGRATxKI/giphy.gif" width="250"/>  
-<img src="https://media.tenor.com/images/2f4f0c3ed4c00bb6f0c8b90f6a507c2f/tenor.gif" width="250" alt="Please Hire Me"/>  
-<img src="https://media.giphy.com/media/s3yvjYV2gf8T7zcUpQ/giphy.gif" width="250"/>  
+  <a href="mailto:prakriti1178@gmail.com">
+    <img src="https://img.shields.io/badge/Email-prakriti1178@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prakriti-81b6822b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/prakritiiii_11/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
 
 </div>
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🎉 Fun Zone  
+
+<div align="center">
+
+  <img src="https://media.giphy.com/media/k1xA4WSR0EqGRATxKI/giphy.gif" width="250"/>  
+  <img src="https://media.tenor.com/images/2f4f0c3ed4c00bb6f0c8b90f6a507c2f/tenor.gif" width="250" alt="Please Hire Me"/>  
+  <img src="https://media.giphy.com/media/s3yvjYV2gf8T7zcUpQ/giphy.gif" width="250"/>  
+
+</div>
+
+---
+
+### 🛠️ Tools & Technologies  
+
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)](https://isocpp.org/)
@@ -64,14 +81,9 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-1A77C9?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
----
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
-### 🐍 Contribution Snake  
-![GitHub Snake Light](https://raw.githubusercontent.com/prakritea/prakritea/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/prakritea/prakritea/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
+</div>
 
 ---
 
