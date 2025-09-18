@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone˙⋆✮)
 
 ---
-# 👋 Hey there, I’m Prakriti  
+# I’m Prakriti👋, its nice to meet you :) 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
