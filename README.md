@@ -1,69 +1,58 @@
-<h1 align="center">Hey there, I'm Prakriti 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Making;Pose+Transfer+%7C+Computer+Vision;Eco-conscious+Tech+Innovator;Always+Learning+%F0%9F%93%9A;Let's+Build+Ethical+AI+Together!" alt="Typing SVG" />
-</p>
+<!-- Profile Banner -->
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone:)&descAlign=56&section=header&reversal=false&fontColor=0&fontSize=80&fontAlign=48&fontAlignY=50&animation=scaleIn&rotate=300)
 
 ---
 
-### 🌿 About Me
+# 👋 Hi there, I’m Prakriti  
 
-<p align="center">
-  🎓 Final Year B.Tech (AI & ML) <br>
-  🤖 Passionate about AI for Good — ML, CV, and Sustainability <br>
-  🌱 Eco-conscious builder | 👩‍💻 Lifelong learner | 🌍 Ethical tech enthusiast
-</p>
-
----
-
-### 💼 Tech Stack & Tools
-
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,sklearn,html,css" />
-</p>
+### 🌸 About Me  
+- 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
+- 💼 **Current Intern** @ Infosys Springboard <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Infosys_logo.svg" width="120"/>  
+- 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakritea&show_icons=true&theme=blueberry&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritea&theme=blueberry&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakritea&layout=compact&theme=blueberry&hide=c&hide_border=true" width="40%" />
-</p>
+### 📊 My GitHub Stats  
+<img src="07171044-2b88-4a83-8bfe-da4f9d510e87.png" width="500"/>  
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prakritea&theme=gruvbox_light&margin-w=10&no-bg=true&no-frame=true" />
-</p>
+### 💻 Most Used Languages  
+<img src="6b9c446c-0d58-429a-a4e6-e4c3d18fdb1e.png" width="400"/>  
 
 ---
 
-### 🧩 Contribution Graph (3D)
-
-<p align="center">
-  <img src="https://github.com/prakritea/prakritea/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-> 🐍 This animated contribution snake dynamically slithers through your commits — updated every day.
+### 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakriti-81b6822b9/)  
 
 ---
 
-### 🔗 Connect with Me
+### 🎉 Fun Zone  
+<div class="tenor-gif-embed" data-postid="768182518186422648" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/gojo-satoru-nah-id-win-gif-768182518186422648">Gojo Satoru Nah Id Win Sticker</a> from <a href="https://tenor.com/search/gojo+satoru-stickers">Gojo Satoru Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
 
-<p align="center">
-  <a href="mailto:prakritisrishti03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/prakriti-81b6822b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+![Fun GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ4d2JqdGg3ZXF0MGI2dm5vNTV1dXkweTU2ZmMxbHRla2tsNTVlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uDK2KwBp4OHfw9k2Wv/giphy.gif)  
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&pause=1000&color=7FA9C6&center=true&vCenter=true&repeat=true&width=400&lines=Thanks+for+visiting!+✨;Let’s+create+impactful+tech+together!+💻🌏" />
-</p>
+### 🛠️ Tools & Technologies  
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,github,vscode,figma,mysql,docker,tensorflow,pytorch" height="40"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,matplotlib" height="40"/>
+</p>  
+
+---
+
+### 🐍 Contribution Snake  
+![Snake animation](https://github.com/prakritea/prakritea/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ⚡ Quick Facts  
+- 🌱 Currently learning **MLOps**  
+- 🤝 Looking to collaborate on **AI/ML projects**  
+- 💬 Ask me about **AI, ML, DL, UI/UX, and Python**  
+- ❤️ I love exploring **tech + creativity**  
+
+---
