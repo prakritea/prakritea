@@ -2,27 +2,21 @@
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello%20Everyone˙⋆✮)
 
 ---
-
 # 👋 Hey there, I’m Prakriti  
 
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-      ### 🌸 About Me  
-      - 🎓 **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
-      - 💼 **Current Intern** @ Infosys Springboard <br>
-        <img src="./infosys logo.png" width="120"/>  
-      - 💡 Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
+  <div style="flex: 1;">
 
-    </td>
-    <td>
-      <img src="./ghilbi icon.png" width="180" alt="Ghibli Icon"/>
-    </td>
-  </tr>
-</table>
+  ### 🌸 About Me  
+  -  **B.Tech (CSE - AIML)** | Final Year Student @ Jagannath University  
+  -  **Current Intern** @ Infosys Springboard <br>
+    <img src="./infosys logo.png" width="120"/>  
+  -  Fields of Interest: **AI, ML, DL, Web Dev, UI/UX, MLOps**  
 
+  </div>
 
+</div>
 
 
 ---
